@@ -184,34 +184,31 @@
 # Typography
 
 ## Sizes
-<div style="display: grid; grid-template-columns: auto auto 8fr; gap: 1em 2em; width: max-content">
+<div style="display: grid; grid-template-columns: auto auto 8fr; gap: 1em 2em; width: max-content; font-size: 0.875rem">
   <span style="color: #aaa">h1</span>
-  <span style="color: #aaa">3.815rem (61.04px)</span>
-  <span style="font-size: 3.815rem">Heading</span>
+  <span style="color: #aaa">3.815rem (53.41px)</span>
+  <span style="font-size: 3.815em">Text</span>
   <span style="color: #aaa">h2</span>
-  <span style="color: #aaa">3.052rem (48.83px)</span>
-  <span style="font-size: 3.052rem">Heading</span>
+  <span style="color: #aaa">3.052rem (42.72px)</span>
+  <span style="font-size: 3.052em">Text</span>
   <span style="color: #aaa">h3</span>
-  <span style="color: #aaa">2.441rem (39.06px)</span>
-  <span style="font-size: 2.441rem">Heading</span>
+  <span style="color: #aaa">2.441rem (34.18px)</span>
+  <span style="font-size: 2.441em">Text</span>
   <span style="color: #aaa">h4</span>
-  <span style="color: #aaa">1.953rem (31.25px)</span>
-  <span style="font-size: 1.953rem">Heading</span>
+  <span style="color: #aaa">1.953rem (27.34px)</span>
+  <span style="font-size: 1.953em">Text</span>
   <span style="color: #aaa">h5</span>
-  <span style="color: #aaa">1.563rem (25px)</span>
-  <span style="font-size: 1.563rem">Heading</span>
+  <span style="color: #aaa">1.563rem (21.88px)</span>
+  <span style="font-size: 1.563em">Text</span>
   <span style="color: #aaa">h6</span>
-  <span style="color: #aaa">1.25rem (20px)</span>
-  <span style="font-size: 1.25rem">Heading</span>
+  <span style="color: #aaa">1.25rem (17.5px)</span>
+  <span style="font-size: 1.25em">Text</span>
   <span style="color: #aaa">p</span>
-  <span style="color: #aaa">1rem (16px)</span>
-  <span style="font-size: 1rem">Heading</span>
+  <span style="color: #aaa">1rem (14px)</span>
+  <span style="font-size: 1em">Text</span>
   <span style="color: #aaa">small</span>
-  <span style="color: #aaa">0.8rem (12.8px)</span>
-  <span style="font-size: 0.8rem">Heading</span>
-  <span style="color: #aaa">small</span>
-  <span style="color: #aaa">0.64rem (10.24px)</span>
-  <span style="font-size: 0.64rem">Heading</span>
+  <span style="color: #aaa">0.8rem (9.6px)</span>
+  <span style="font-size: 0.8em">Text</span>
 </div>
 
 ## Weight
